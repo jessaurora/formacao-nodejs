@@ -1,0 +1,16 @@
+{
+  "name": "mario-kart-js",
+  "version": "1.0.0",
+  "description": "Simulador de corrida Mario Kart em Node.js — Desafio de Projeto DIO",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["nodejs", "mario-kart", "dio", "game", "simulator"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
